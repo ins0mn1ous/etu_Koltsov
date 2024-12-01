@@ -1,0 +1,6 @@
+﻿  arcanewmenu.c
+X:\Progs\VS\projects\ArcaneCalcwMenu\arcanewmenu.c(43,17): warning C4013: 'calculateArcana' undefined; assuming extern returning int
+X:\Progs\VS\projects\ArcaneCalcwMenu\arcanewmenu.c(132,9): warning C4033: 'calculateArcana' must return a value
+X:\Progs\VS\projects\ArcaneCalcwMenu\arcanewmenu.c(138,9): warning C4033: 'calculateArcana' must return a value
+X:\Progs\VS\projects\ArcaneCalcwMenu\arcanewmenu.c(179): warning C4716: 'calculateArcana': must return a value
+  ArcaneCalcwMenu.vcxproj -> X:\Progs\VS\projects\ArcaneCalcwMenu\x64\Debug\ArcaneCalcwMenu.exe
